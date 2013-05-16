@@ -1,0 +1,7 @@
+{
+    "name"        : "redlock",
+    "description" : "Distributed locking mechanism with lock names, retries, timeouts and keep-alive.",
+    "version"     : "0.8.0",
+
+    "main"        : "redlock.js"
+}
